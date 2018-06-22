@@ -1,0 +1,29 @@
+body{
+  background-image: url('kelly-sikkema-411622-unsplash.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  font-family: 'Fondamento', cursive;
+}
+
+.jumbotron {
+  background-color: #F3EEB6;
+  font-family: 'Fondamento', cursive;
+  
+}
+
+.text {
+  font-family: 'Fondamento', cursive;
+  font-size: 1.3em;  
+}
+
+.hide {
+  display: none;
+}
+
+.done {
+    font-family: 'Fondamento', cursive;    
+    text-decoration: line-through;
+    color: grey;
+    font-style: italic
+  }
